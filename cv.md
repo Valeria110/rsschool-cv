@@ -1,5 +1,5 @@
 # Valeriya Ivashkevich
-![My photo](my%20photo.jpg =250x)
+![My photo](myphoto.jpg =250x)
 
 ## Junior Frontend Developer
 
