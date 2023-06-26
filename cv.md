@@ -1,5 +1,7 @@
 # Valeriya Ivashkevich
-
+<kbd>
+<img src="my%20photo.jpg" width = 100px height = 100px border-radius = 50%/>
+</kbd>
 ## Junior Frontend Developer
 
 ## Contact information: 
