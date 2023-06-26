@@ -1,7 +1,5 @@
 # Valeriya Ivashkevich
-<kbd>
-<img src="my%20photo.jpg" width = 200px  border-radius = 50%/>
-</kbd>
+![My photo](my%20photo.jpg =250x)
 
 ## Junior Frontend Developer
 
