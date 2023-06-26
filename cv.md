@@ -55,8 +55,8 @@ function findShort(s){
 - German (A2 basic)
 - Chinese (A1 basic)
 
-In the summer 2022 I workes as an interpreter and translator at the company ODO “Interpodshipnik”. **My duties were:**
-- writing translation from Russian into English and German, and vice versa (translation of contracts, offers, requests, instructions, labor agreements, etc.)
+In the summer 2022 I worked as an interpreter and translator at the company ODO “Interpodshipnik”. **My duties were:**
+- Writing translation from Russian into English and German, and vice versa (translation of contracts, offers, requests, instructions, labor agreements, etc.)
 -	Participation in tenders
 -	Business correspondence with clients and suppliers
 -	Participation in negotiations as an interpreter
