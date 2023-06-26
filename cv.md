@@ -45,3 +45,19 @@ function findShort(s){
 }
 ```
 ***
+## Courses:
+- The Web Developer Bootcamp 2023 from Colt Steele (in progress)
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+## Languages:
+- Russian/Belarussian (native)
+- English (C1 advanced)
+- German (A2 basic)
+- Chinese (A1 basic)
+
+In the summer 2022 I workes as an interpreter and translator at the company ODO “Interpodshipnik”. **My duties were:**
+- writing translation from Russian into English and German, and vice versa (translation of contracts, offers, requests, instructions, labor agreements, etc.)
+-	Participation in tenders
+-	Business correspondence with clients and suppliers
+-	Participation in negotiations as an interpreter
+-	Work in such programs as Microsoft Word, Excel, Outlook, WPS Office
