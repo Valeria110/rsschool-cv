@@ -1,5 +1,5 @@
 # Valeriya Ivashkevich
-![My photo](myphoto.jpg =250x)
+<img src="myphoto.jpg" alt="my photo" width="200"/>
 
 ## Junior Frontend Developer
 
