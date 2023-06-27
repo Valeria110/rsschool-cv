@@ -1,5 +1,5 @@
 # Valeriya Ivashkevich
-<img src="myphoto.jpg" alt="my photo" width="200"/>
+<img src="img/myphoto.jpg" alt="my photo" width="200"/>
 
 ## Junior Frontend Developer
 
