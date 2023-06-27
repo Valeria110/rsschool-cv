@@ -21,6 +21,27 @@ body{
     list-style: none;
   }
   .nav-link {
-    padding: 0 20px;
+    padding: 0 15px;
     line-height: 50px;
+    text-decoration: none;
+    transition: .3s;
+  }
+  .nav-link:hover{
+    color: #673ab7;
+  }
+  
+  .myPhoto{
+    width: 250px;
+  }
+
+  .section {
+    padding: 20px;
+  }
+
+  section p{
+    text-align: justify;
+  }
+
+  .section-link{
+    text-decoration: none;
   }
