@@ -32,7 +32,7 @@
         <div class="container main-container">
             <section class="section" id="profile">
                 <h1 class="section-title">Valeriya Ivashkevich</h1>
-                <figure>
+                <figure class="img-container">
                     <img src="img/myphoto.jpg" alt="My photo" class="myPhoto">
                     <figcaption>Junior Frontend Developer</figcaption>
                 </figure>
@@ -83,13 +83,15 @@
             <section class="section" id="code">
                 <h2 class="section-title">Code example:</h2>
                 <p><b>Shortest Word from Codewars.</b> <i>Task description:</i> given a string of words, return the length of the shortest word(s). String will never be empty and you do not need to account for different data types.</p>
-                <p class="code-example">
-                    function findShort(s){<br>
-                        let arr = s.split(' ');<br>
-                        let newArr = arr.map(w => w.length);<br>
-                        return Math.min(...newArr)<br>
-                      }
-                </p>
+                <div class="code-example">
+                    <p>
+                        <span class="red-code">function</span> <span class="purple-code">findShort</span>(s){<br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;<span class="red-code">let</span> arr = <span class="purple-code">split</span>(' ');<br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;<span class="red-code">let</span> newArr = <arr class="span purple-code">map</arr>(w => w.length);<br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;<span class="red-code">return</span> <Math class="span purple-code">min</Math>(...newArr)<br>
+                          }
+                    </p>
+                </div>
             </section>
             <section class="section" id="education">
                 <h2 class="section-title">Education & Courses:</h2>
@@ -102,10 +104,10 @@
             <section class="section" id="languages">
                 <h2 class="section-title">Languages:</h2>
                 <ul class="section-list">
-                    <li class="se4ction-item">Russian/Belarussian (native)</li>
-                    <li class="se4ction-item">English (C1 advanced)</li>
-                    <li class="se4ction-item">German (A2 basic)</li>
-                    <li class="se4ction-item">Chinese (A1 basic)</li>
+                    <li class="section-item">Russian/Belarussian (native)</li>
+                    <li class="section-item">English (C1 advanced)</li>
+                    <li class="section-item">German (A2 basic)</li>
+                    <li class="section-item">Chinese (A1 basic)</li>
                 </ul>
                     <p>In the summer 2022 I worked as an interpreter and translator at the company ODO “Interpodshipnik”. <b>My duties were:</b></p>
                     <ul class="section-list">
