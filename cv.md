@@ -1,9 +1,9 @@
 # Valeriya Ivashkevich
-<img src="myphoto.jpg" alt="my photo" width="200"/>
+<img src="img/myphoto.jpg" alt="my photo" width="200"/>
 
 ## Junior Frontend Developer
 
-## Contact information: 
+## Contact information:
 
 **Phone:** +375 25 50 13 109\
 **E-mail:** ivashkevich03@gmail.com\
@@ -14,10 +14,10 @@
 Currently, I'm a third-year student at BSEU at the facilty of International Business Communications. I study foreign languages (English - С1, German and Chinese) and economics. I have been actively studying front-end development for six months now. I really fell in love with this IT-direction. I realized that I wanted to connect my life with front-end, since it is something that I enjoy and there is always the opportunity to improve your skills and learn something new, so you never stand still. My aim is to do all my best to make this dream come true. And I cannot but mention that one of the main my strengths are incredible industriousness, ambition and self-discipline. Therefore, I am sure that one day my dream will come true!
 
 
-## Hobbys: 
+## Hobbys:
 Singing, playing musical instruments (piano, guitar), writing books, cooking, horseback riding, programming.
 
-## Personal qualities: 
+## Personal qualities:
 -	Ambitious
 -	Extremely hardworking
 -	Stress tolerance

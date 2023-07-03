@@ -3,9 +3,134 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rsschool-cv-html</title>
+    <title>CV</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="img/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Ysabeau+Infant:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+<script src="https://kit.fontawesome.com/33f66d1570.js" crossorigin="anonymous"></script>
 </head>
 <body>
-    
+    <header class="header">
+        <div class="container">
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                    <li class="nav-item"><a href="#aboutMyself" class="nav-link">About Myself</a></li>
+                    <li class="nav-item"><a href="#hobbys" class="nav-link">Hobbys</a></li>
+                    <li class="nav-item"><a href="#personalSkills" class="nav-link">Personal Skills</a></li>
+                    <li class="nav-item"><a href="#proficiency" class="nav-link">Skills &amp; Proficiency</a></li>
+                    <li class="nav-item"><a href="#code" class="nav-link">Code Example</a></li>
+                    <li class="nav-item"><a href="#education" class="nav-link">Education &amp; Courses</a></li>
+                    <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container main-container">
+            <section class="section" id="profile">
+                <h1 class="section-title">Valeriya Ivashkevich</h1>
+                <figure class="img-container">
+                    <img src="img/myphoto.jpg" alt="My photo" class="my-photo">
+                    <figcaption>Junior Frontend Developer</figcaption>
+                </figure>
+
+            </section>
+            <section class="section" id="contacts">
+                <h2 class="section-title">Contact information:</h2>
+                <p>
+                    <b>Phone:</b> +375 25 50 13 109 <br>
+                    <b>E-mail:</b> ivashkevich03@gmail.com <br>
+                    <b>Telegram</b> @valerjanochka <br>
+                    <a href="https://www.linkedin.com/in/%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%8F-%D0%B8%D0%B2%D0%B0%D1%88%D0%BA%D0%B5%D0%B2%D0%B8%D1%87-a19124256/" class="section-link">LinkedIn</a>
+                </p>
+            </section>
+            <section class="section" id="aboutMyself">
+                <h2 class="section-title">Briefly About Myself:</h2>
+                <p>Currently, I’m a third-year student at BSEU at the facilty of International Business Communications. I study foreign languages (English - С1, German and Chinese) and economics. I have been actively studying front-end development for six months now. I really fell in love with this IT-direction. I realized that I wanted to connect my life with front-end, since it is something that I enjoy and there is always the opportunity to improve your skills and learn something new, so you never stand still. My aim is to do all my best to make this dream come true. And I cannot but mention that one of the main my strengths are incredible industriousness, ambition and self-discipline. Therefore, I am sure that one day my dream will come true!</p>
+            </section>
+            <section class="section" id="hobbys">
+                <h2 class="section-title">Hobbys:</h2>
+                <p>Singing, playing musical instruments (piano, guitar), writing books, cooking, horseback riding, programming.</p>
+            </section>
+            <section class="section" id="personalSkills">
+                <h2 class="section-title">Personal qualities:</h2>
+                <ul class="section-list">
+                    <li class="section-item">Ambitious</li>
+                    <li class="section-item">Extremely hardworking</li>
+                    <li class="section-item">Stress tolerance</li>
+                    <li class="section-item">Friendly</li>
+                    <li class="section-item">Organized, accurate, detail-oriented</li>
+                    <li class="section-item">Determined</li>
+                    <li class="section-item">Good-listener</li>
+                    <li class="section-item">Quick learner</li>
+                    <li class="section-item">Flexible and adaptable to changes</li>
+                </ul>
+            </section>
+            <section class="section" id="proficiency">
+                <h2 class="section-title">Skills and Proficiency:</h2>
+                <ul class="section-list">
+                    <li class="section-item">HTML5, CSS3</li>
+                    <li class="section-item">JavaScript Basics</li>
+                    <li class="section-item">Git, GitHub</li>
+                    <li class="section-item">Bootstrap 5, Bulma</li>
+                    <li class="section-item">VS Code</li>
+                    <li class="section-item">Adobe Photoshop</li>
+                </ul>
+            </section>
+            <section class="section" id="code">
+                <h2 class="section-title">Code example:</h2>
+                <p><b>Shortest Word from Codewars.</b> <i>Task description:</i> given a string of words, return the length of the shortest word(s). String will never be empty and you do not need to account for different data types.</p>
+                <div class="code-example">
+                    <p>
+                        <span class="red-code">function</span> <span class="purple-code">findShort</span>(s){<br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;<span class="red-code">let</span> arr = <span class="purple-code">split</span>(' ');<br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;<span class="red-code">let</span> newArr = <span class=" purple-code">map</span>(w =&gt; w.length);<br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;<span class="red-code">return</span> <span class=" purple-code">min</span>(...newArr)<br>
+                          }
+                    </p>
+                </div>
+            </section>
+            <section class="section" id="education">
+                <h2 class="section-title">Education &amp; Courses:</h2>
+                <ul class="section-list">
+                    <li class="section-item">BSEU (the Faculty of International Business Communications)</li>
+                    <li class="section-item"><a href="https://www.udemy.com/course/the-web-developer-bootcamp/" class="section-link">The Web Developer Bootcamp 2023 from Colt Steele (in progress)</a></li>
+                    <li class="section-item">RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)</li>
+                </ul>
+            </section>
+            <section class="section" id="languages">
+                <h2 class="section-title">Languages:</h2>
+                <ul class="section-list">
+                    <li class="section-item">Russian/Belarussian (native)</li>
+                    <li class="section-item">English (C1 advanced)</li>
+                    <li class="section-item">German (A2 basic)</li>
+                    <li class="section-item">Chinese (A1 basic)</li>
+                </ul>
+                    <p>In the summer 2022 I worked as an interpreter and translator at the company ODO “Interpodshipnik”. <b>My duties were:</b></p>
+                    <ul class="section-list">
+                        <li class="section-item">Writing translation from Russian into English and German, and vice versa (translation of contracts, offers, requests, instructions, labor agreements, etc.)</li>
+                        <li class="section-item">Participation in tenders</li>
+                        <li class="section-item">Business correspondence with clients and suppliers</li>
+                        <li class="section-item">Participation in negotiations as an interpreter</li>
+                        <li class="section-item">Work in such programs as Microsoft Word, Excel, Outlook, WPS Office</li>
+                    </ul>
+
+            </section>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <ul class="footer-list">
+                <li class="footer-item"><i class="fa-brands fa-github"></i><a class="footer-link" href="https://github.com/Valeria110">My GitHub</a></li>
+                <li class="footer-item">2022-2023</li>
+                <li class="footer-item"><a href="https://rs.school/js/" class="footer-link"><img class="rs-logo" src="https://rs.school/images/rs_school_js.svg" alt="RSschool logo"></a></li>
+            </ul>
+        </div>
+    </footer>
 </body>
 </html>
