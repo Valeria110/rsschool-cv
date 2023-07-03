@@ -27,7 +27,7 @@ Singing, playing musical instruments (piano, guitar), writing books, cooking, ho
 -	Good-listener
 -	Quick learner
 -	Flexible and adaptable to changes
-***
+
 ## Skills and Proficiency:
 - HTML5, CSS3
 - JavaScript Basics
