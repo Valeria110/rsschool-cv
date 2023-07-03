@@ -1,0 +1,173 @@
+body{
+    font-family: 'Ysabeau Infant', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0;
+}
+* {
+    box-sizing: border-box;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+  .header,
+  .footer{
+    height: 100px;
+    background-color: #eee2f4;
+  }
+
+  .main-container{
+    padding: 20px;
+  }
+
+  .nav-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin-top: 23px;
+  }
+  .nav-link {
+    flex-grow: 1fr;
+    padding: 0 15px;
+    line-height: 50px;
+    text-decoration: none;
+    transition: .3s;
+    color: black;
+  }
+
+  .nav-link:hover{
+    color: #651fff;
+    background-color: #e9caf8;
+    border-radius: 20px;
+  }
+
+  .img-container{
+    text-align: center;
+  }
+
+  figcaption{
+    font-style: italic;
+    font-size: large;
+  }
+
+  .my-photo{
+    width: 250px;
+  }
+
+  .section {
+    padding: 20px;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 0;
+  }
+
+  .section-title{
+    text-align: center;
+    letter-spacing: 0.2rem;
+    margin-top: 20;
+  }
+
+  h1{
+    font-size: 2em;
+    text-transform: uppercase;
+    margin: 0;
+    text-shadow: 3px 3px 3px #b3b3b3;
+  }
+
+  .section::after{
+    content: '';
+    position: absolute;
+    margin-top: 20px;
+    width: 50%;
+    border-bottom: 3px solid #dbdbdc;
+  }
+  section p{
+    text-align: justify;
+    font-weight: 400;
+    line-height: 1.5;
+  }
+
+  .section-link,
+  .footer-link{
+    text-decoration: none;
+    color: #0969da;
+    transition: 0.3s;
+  }
+
+  .footer-link{
+    color: #000;
+  }
+
+  .section-link:hover,
+  .footer-link:hover{
+    color: #651fff;
+    background-color: #eee2f4;
+    border-radius: 20px;
+  }
+
+  .section-item{
+    position: relative;
+    padding-left: 25px;
+    list-style:none;
+    line-height: 24px;
+  }
+
+  .section-item:hover{
+    background-color: #eee2f4;
+    border-radius: 20px;
+    font-size: 17px;
+    cursor: pointer;
+  }
+
+  .section-item::before{
+    content: '';
+    position: absolute;
+    top: 9px;
+    left: 5px;
+    width: 8px;
+    height: 8px;
+    border: 1px solid #a37df7;
+    background-color: #eee2f4;
+    border-radius: 50%;
+  }
+
+  .code-example{
+    box-shadow: 0 0 8px #000;
+    padding: 10px;
+  }
+
+  .code-example p{
+    margin: 0;
+  }
+
+  .red-code{
+    color: #cf222e;
+  }
+
+  .purple-code{
+    color: #8250df;
+  }
+
+  .footer-list{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 35px;
+  }
+
+  .footer-item{
+    list-style: none;
+    flex-grow: 1fr;
+  }
+
+  .rs-logo{
+    width: 100px;
+  }
