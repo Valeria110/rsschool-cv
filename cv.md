@@ -50,7 +50,7 @@ function findShort(s){
 ## Education & Courses:
 - BSEU (the Faculty of International Business Communications)
 - [The Web Developer Bootcamp 2023 from Colt Steele (in progress)](https://www.udemy.com/course/the-web-developer-bootcamp/)
-- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+- RS Schools Course «JavaScript/Front-end. Stage 0» 2023 (completed)
 
 ## Languages:
 - Russian/Belarussian (native)
